@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.sublime-*
+
+# Env / secrets (none used; keep for safety)
+.env
+.env.*
+*.pem
+*.key
+
+# Logs / temp
+*.log
+*.tmp
+.cache/
+
+# Cursor / workspace (do not publish)
+.cursor/
