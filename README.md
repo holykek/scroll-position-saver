@@ -36,7 +36,7 @@ All data is stored **only on your device** in Chrome’s local storage. Nothing 
 
 ## Support
 
-- **Bug or idea?** [Open an issue](https://github.com/YOUR_USERNAME/scroll-position-saver/issues).  
+- **Bug or idea?** [Open an issue](https://github.com/holykek/scroll-position-saver/issues).  
 - **Like it?** [Buy me a coffee](https://buymeacoffee.com/rollingabe).
 
 ## Project structure
